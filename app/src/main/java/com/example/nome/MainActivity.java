@@ -12,3 +12,5 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
 }
+
+// Letícia Aparecida da Silva SC3005852 e Matheus Piovezan Teixeira SC1901443
